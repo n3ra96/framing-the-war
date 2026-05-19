@@ -25,6 +25,19 @@ This project presents a full end-to-end computational pipeline for analyzing how
 **War fronts covered:** Gaza · Lebanon · Syria · Yemen · Iran · Israel
 
 ---
+## Visualizations
+
+### Frame Distribution
+![Frame Heatmap](figures/frame_heatmap.png)
+
+### Correlation: All Fronts vs Framing
+![Correlation](figures/correlation_all_fronts.png)
+
+### Granger Causality
+![Granger](figures/granger_all_fronts.png)
+
+### Framing Evolution Over Time
+![Framing Shift](figures/framing_shift.png)
 
 ## Key Findings
 
