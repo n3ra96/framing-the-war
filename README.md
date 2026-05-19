@@ -87,7 +87,7 @@ framing-the-war/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/framing-the-war.git
+git clone https://github.com/n3ra96/framing-the-war.git
 ```
 
 ### 2. Open in Google Colab
